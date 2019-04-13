@@ -8,4 +8,4 @@ A simple todo app with console ui using MVP as architectural pattern
 * `views`: Implementation of views defined in `contracts` for console based UI
 
 ### Why do we use interfaces and define contracts in MVP?
-Interfaces make presenters and views completely independent of implementation of each other and they can be developed simultanously or have different implementations.
+Interfaces make presenters and views completely independent of the implementation of each other so they can be developed simultaenously or have different implementations.
